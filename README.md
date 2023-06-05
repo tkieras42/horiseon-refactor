@@ -8,6 +8,8 @@
 * added alt elements to images
 * fixed nav links
 
+(./assets/preview-of-page-1.png)
+
 ## Credits
-used normalize.css from: https://necolas.github.io/normalize.css/
-used mdn for refrances: https://developer.mozilla.org/en-US/
+used normalize.css from: https://necolas.github.io/normalize.css/.   
+used mdn for refrances: https://developer.mozilla.org/en-US/.
